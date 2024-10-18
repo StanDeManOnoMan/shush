@@ -1,0 +1,110 @@
+body {
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    background-color: #146791;
+    color: #9fe661;
+    font-family: Tahoma;
+    font-size: 16px;
+    
+  }
+  
+  html{
+    border-top: solid 5px;
+    
+    border-left: solid 5px;
+    border-right: solid 5px;
+    color: #9fe661;
+  }
+
+  h1, p {
+    margin: 1em auto;
+    text-align: center;
+  }
+  
+  form {
+    width: 60vw;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
+    padding-bottom: 2em;
+  }
+  
+  fieldset {
+    border: none;
+    padding: 2rem 0;
+    border-bottom: 3px solid #0a4908;
+  }
+  
+  fieldset:last-of-type {
+    border-bottom: none;
+  }
+  
+  label {
+    display: block;
+    margin: 0.8rem 0;
+  }
+  
+  
+  textarea,
+  select {
+    margin: 5px 0 0 0;
+    width: 100%;
+    min-height: 2em;
+  }
+  
+  input, textarea {
+    background-color: #25485f79;
+    border: 1px solid #2dce17;
+    color: #000000;
+    
+  }
+  
+  textarea{
+    min-height: 10em;
+  }
+  
+  
+  input[type="submit"] {
+    display: block;
+    width: 60%;
+    margin: 1em auto;
+    height: 3em;
+    font-size: 1.1rem;
+    background-color: #27b333de;
+    border-color: rgb(35, 70, 31);
+    min-width: 300px;
+  }
+  
+  input[type="file"] {
+    padding: 1px 2px;
+  }
+  
+ 
+  
+
+  .ervaring-veel{
+    min-height: 2em;
+    width:100%;
+      }
+
+      .fieldset1{
+        margin-top: 10px;
+        margin-bottom: 5px;
+        border-bottom: 3px solid #37aa3b;
+        border-top: 3px solid #31bd31;
+      }
+
+div{
+  margin-top: 10px;
+}
+
+.NEA input{
+  margin-left: 60px;
+  display: block;
+  margin-top:-20px;
+  
+  }
+
+
+     
